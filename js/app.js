@@ -8,14 +8,14 @@ var app = new Vue({
           url:'https://www.google.ru/',
           title:'Google',
           alt:'Google.jpg.jpg',
-          img:'../img/google.jpg',
+          img:'img/google.jpg',
           discription:'Поисковая система google',
         },
         {
           url:'https://yandex.ru/',
           title:'Yandex',
           alt:'Yandex.jpg',
-          img:'../img/yandex.jpg',
+          img:'img/yandex.jpg',
           discription:'Поисковая система Yandex',
         },
       ]
